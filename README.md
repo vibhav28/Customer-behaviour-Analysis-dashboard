@@ -2,7 +2,6 @@
 
 An end-to-end data analytics project on 3,900 retail purchase records. The data is cleaned in Python, analysed with SQL in PostgreSQL, and presented in a Power BI dashboard, a written report and a slide deck.
 
-![Customer Behaviour Dashboard](images/dashboard.png)
 
 ## Overview
 
